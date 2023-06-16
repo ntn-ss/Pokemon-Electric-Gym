@@ -40,8 +40,7 @@ while jogando:
     print("Bem-vindo ao ginásio da cidade de Vermilion, dos pokémon do tipo elétrico, jovem aventureiro!\n")
     print("Antes de enfrentar o líder, Tenente Surge, e seu temível Raichu, você precisará solucionar este enigma.")
     print("Encontre as duas lixeiras que possuem os botões para desligar a barreira elétrica no meio do ginásio.")
-    print("Não há limite de tentativas para encontrar o primeiro deles, mas após encontrá-lo, terá apenas uma chance para encontrar o segundo.")
-    print("O segundo estará ou na lixeira imediatamente acima, ou na abaixo, ou na da esquerda ou na da direita do primeiro. Boa sorte.")
+    print("O primeiro botão estará em qualquer lugar. O segundo estará ou na lixeira imediatamente acima, ou na abaixo, ou na da esquerda ou na da direita do primeiro. Boa sorte.")
     print("\n------------------------------------------------------------")
     decifrarOuDesistir = int(input("Escolha uma opção:\n1: Decifrar o enigma\n2: Desistir\n"))
 
